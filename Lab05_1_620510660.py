@@ -24,7 +24,7 @@ def rand_float(n):
         x = xn #เปลี่ยนseedไปเรื่อยๆ
     plot(l,'ro')
     show()
-    
+    print("สวัสดีวันจันอังคารพุดพฤหัดสุกร์เสาทิ๊ต")
 if __name__ == '__main__' :
     main()
     
